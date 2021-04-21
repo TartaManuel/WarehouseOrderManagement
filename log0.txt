@@ -1,0 +1,4 @@
+Chitanta numarul 0
+Client [id=4, name=Alex, address=asas, email=alex@y, age=23]
+Product [id=25, name=mandarine, stock=7]
+Cantitatea dorita: 3
