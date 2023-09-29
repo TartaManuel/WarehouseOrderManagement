@@ -22,5 +22,7 @@ public class Main {
         Controller controller=new Controller(view,view1,view2,view3,view4);
         view.setVisible(true);
 
+        B b= (B) new A();
+
     }
 }
